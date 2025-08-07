@@ -2,4 +2,4 @@
 In Development
 Implementing
 test 
-Business engagement architeture for marketplaces
+Business engagement architecture for marketplaces
